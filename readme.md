@@ -1,6 +1,7 @@
 # Dual Confirmation Indicator Testers  
 Moving on from single confirmation indicator tests, I needed to start testing the ones that showed promise together. In addition to some other indicators, my final trading EA will be using 2 confirmation incicators.  
 > In order to streamline the creation of Test EAs, I created a more advanced template to use which includes some lookback functions to give some leeway. In addition to that, while not within the template, I found it necessary to also add a dominance option which is present within most files.  
+**Requires Indicators to work:** [Found Here](https://github.com/MarkiusFlavious/Single-Indicator-Tests-for-MT5)  
 ## Disclaimer:  
 The Expert Advisors within this repository are intended to be used within MT5's backtester and not for live trading. **You have been warned**.  
 ## Dual Confirmation Indicator Tests:  
